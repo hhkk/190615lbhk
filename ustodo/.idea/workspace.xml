@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/rest-mongodb-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../0407AngSecTut/g/ex02/solution/todo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../0407b/grails-angular2-features2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180407u/mus1/music" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180414bganze/myapp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180417bMongoGrailsNoAng/mongodb-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180417bMongoGrailsNoAng/rest-mongodb" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180417bMongoGrailsNoAng/rest-mongodb/complete" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180417cAlv/gasw/ex01/hkm/todo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180419BcloneFromScratch/mongodb-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180419BcloneFromScratch/rest-mongodb" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180419CsecMongoNoang/grails3-authentication" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180419clonerestmongo/complete" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180419clonerestmongo/rest-mongodb" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180419clonerestmongo/rest-mongodb/complete" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180420AsecurMongoNoAng/g3a" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180420BsecMongoNoang/grails3-authentication" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180421AMongoOnly/a80421grails3-mongodb" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180422ACreateService/ga180422ACreateService" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180422BigCloneTry/myapp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180424CurlAll/a180424CurlAll" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180424CurlAllRun/myapp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180425ACurlAllNoHib/a180425ACurlAllNoHib" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180425RestSecGreen/MySecureRest" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180425RestSecNoCurl/MySecureRest" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180425RestSecNoCurl/a180425RestSecNoCurl" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180426/a180426curl" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../1804curlbig/180417curlMyapp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180501/myapp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180501BAngSec/todo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180501CAngSecAngular/todo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180526TestSecurityFromClone/grails-angularjs-springsecurity-workshop/ex03/solution/todo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../180530newNpm/todo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ustodograils18039" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
